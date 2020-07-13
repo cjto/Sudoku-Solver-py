@@ -90,8 +90,9 @@ def solvePuzzle(board):
                 board[row][column] = 0
 
     return False
-
+print('Unsolved Sudoku:')
 printBoard(gameBoard)
 solvePuzzle(gameBoard)
 print('~~~~~~~~~~~~~~~~~~~~~')
+print('Solved Sudoku:')
 printBoard(gameBoard)
