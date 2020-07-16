@@ -13,4 +13,3 @@ Created a python script that solves valid Sudoku puzzles or detect invalid Sudok
 
 <img width="177" alt="Screen Shot 2020-07-12 at 10 03 15 PM" src="https://user-images.githubusercontent.com/59327790/87273089-074ad900-c48d-11ea-9db2-a737b1104473.png">
 
-Inspired by Tech with Tim
